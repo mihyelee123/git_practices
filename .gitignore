@@ -1,3 +1,9 @@
+# photoshop
+*.pid
+
+# text
+*.text
+
 # Logs
 logs
 *.log
